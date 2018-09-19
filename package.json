@@ -1,0 +1,22 @@
+{
+  "name": "now-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Shawn Allen",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "keywords": [
+    "zeit-now"
+  ],
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "now-token": "^0.1.4"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
