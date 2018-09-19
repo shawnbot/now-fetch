@@ -1,5 +1,5 @@
 # now-fetch
-A bare-bones [Now API] [fetch] wrapper that:
+A bare-bones [fetch] wrapper for the [Now API] that:
 
 * Sets the base URL for requests to `https://api.zeit.co`, or the `url` option
 * Lazily finds your Now authentication token with [now-token] and automatically sets the `Authorization` header
