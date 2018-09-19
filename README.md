@@ -44,3 +44,4 @@ See the [node-fetch docs](https://github.com/bitinn/node-fetch#options) for whic
 
 [now-token]: https://npm.im/now-token
 [now api]: https://zeit.co/api
+[fetch]: https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
