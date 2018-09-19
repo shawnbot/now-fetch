@@ -8,6 +8,7 @@
   "scripts": {
     "test": "jest",
     "watch": "jest --watch",
+    "prepublishOnly": "npm test",
     "pub": "npm publish && git push && git push --tags"
   },
   "keywords": [
